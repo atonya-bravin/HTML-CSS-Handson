@@ -8,7 +8,7 @@ This project is officiated with the following objectives;
 - Provision of continued improvement in my HTML/CSS skills.
 
 ## Featured Projects
-- **RapChat App Landing Page** -> This is a project inspired by [Link Dmitry Litvinenko](https://dribbble.com/shots/19199771-Rapchat-App), where I try and implement the UX design he crafted.
+- **RapChat App Landing Page** -> This is a project inspired by [Dmitry Litvinenko](https://dribbble.com/shots/19199771-Rapchat-App), where I try and implement the UX design he crafted.
 
 ## Project Featuring
 Some of the places I will be posting this projects include;
