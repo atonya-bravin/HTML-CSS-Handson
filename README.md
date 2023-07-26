@@ -12,6 +12,6 @@ This project is officiated with the following objectives;
 
 ## Project Featuring
 Some of the places I will be posting this projects include;
-- [Link Codepen](https://codepen.io/atonya-bravin)
-- [Link Twitter](https://twitter.com/bravin_the_Geek)
-- [Link LinkedIn](https://www.linkedin.com/in/bravin-atonya-71048425a/)
+- [Codepen](https://codepen.io/atonya-bravin)
+- [Twitter](https://twitter.com/bravin_the_Geek)
+- [LinkedIn](https://www.linkedin.com/in/bravin-atonya-71048425a/)
