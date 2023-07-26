@@ -1,4 +1,6 @@
-# This is a repository that contains some of the handson projects that i have done in regards to HTML and CSS
+# HTML/CSS Handson Projects 
+This is a repository that contains some of the handson projects that i have done in regards to HTML and CSS
+
 
 ## Objective
 This project is officiated with the following objectives;
