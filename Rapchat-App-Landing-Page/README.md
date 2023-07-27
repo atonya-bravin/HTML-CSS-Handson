@@ -13,8 +13,9 @@ Rapchat-App-Landing-Page
 ├── README.md
 ├── images/
 │   ├── Logo.png
-│   └── Background.png
+│   ├── Background.png
 |   └── application background.png
+└── index.html
 ```
 ## Project Featuring
 Some of the places this project has been posted to;
