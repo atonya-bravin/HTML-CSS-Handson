@@ -1,9 +1,4 @@
 # Rapchat Application
-![Repo size](https://img.shields.io/github/repo-size/atonya-bravin/HTML-CSS-Handson/Rapchat-App-Landing-Page)
-![Repo License](https://img.shields.io/github/license/atonya-bravin/HTML-CSS-Handson.svg)
-![Latest commit](https://img.shields.io/github/last-commit/atonya-bravin/HTML-CSS-Handson?style=round-square)
-  
-
 <img src="https://github.com/atonya-bravin/HTML-CSS-Handson/blob/main/Rapchat-App-Landing-Page/images/application%20background.png" alt="Image">
 
 ## Project Description
