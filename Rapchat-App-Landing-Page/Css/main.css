@@ -1,0 +1,13 @@
+/* default all margins and paddings to 0px */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* body styling*/
+body{
+    background-image: url(../images/Background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
