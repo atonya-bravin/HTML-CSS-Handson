@@ -11,11 +11,13 @@ This is how our project structure looks like;
 ```
 Rapchat-App-Landing-Page
 ├── README.md
+├── index.html
 ├── images/
 │   ├── Logo.png
 │   ├── Background.png
 |   └── application background.png
-└── index.html
+└── Css/
+    └── main.css
 ```
 ## Project Featuring
 Some of the places this project has been posted to;
