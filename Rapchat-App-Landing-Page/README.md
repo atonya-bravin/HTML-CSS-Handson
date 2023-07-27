@@ -1,24 +1,18 @@
 # Rapchat Application
 
-<img src="https://github.com/atonya-bravin/HTML-CSS-Handson/blob/main/Rapchat-App-Landing-Page/Resources/application%20background.png" alt="Image">
+<img src="https://github.com/atonya-bravin/HTML-CSS-Handson/blob/main/Rapchat-App-Landing-Page/images/application%20background.png" alt="Image">
 
 ## Project Description
 This is a project from [Dmitry Litvinenko](https://dribbble.com/shots/19199771-Rapchat-App). He is a UX designer, who does some great work. I saw his design and got interested in implementing it. In this project therefore, I do the implementation using plain HTML/CSS
 
 ## File Structure
 ```
-Project Root
+Rapchat-App-Landing-Page
 ├── README.md
-├── index.html
-├── css/
-│   ├── style.css
-│   └── main.css
-├── js/
-│   ├── script.js
-│   └── utils.js
-└── images/
-    ├── logo.png
-    └── background.jpg
+├── images/
+│   ├── Logo.png
+│   └── Background.png
+|   └── application background.png
 ```
 
 ## Project Featuring
