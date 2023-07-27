@@ -1,5 +1,5 @@
 # HTML/CSS Handson Projects
-![Repo size](https://img.shields.io/github/repo-size/atonya-bravin/HTML-CSS-Handson)
+![Repo sie](https://img.shields.io/github/repo-size/atonya-bravin/HTML-CSS-Handson)
 ![Repo License](https://img.shields.io/github/license/atonya-bravin/HTML-CSS-Handson.svg)
 ![Latest commit](https://img.shields.io/github/last-commit/atonya-bravin/HTML-CSS-Handson?style=round-square)
  
